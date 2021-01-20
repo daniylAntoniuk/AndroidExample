@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fast dostavka</string>
+    <string name="title_activity_menu_side_bar">MenuSideBarActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">MainActivity</string>
+    <string name="title_home">Магазини</string>
+    <string name="title_stores">Магазини</string>
+    <string name="title_dashboard">Замовлення</string>
+    <string name="title_notifications">Профіль</string>
+
+    <string name="product_title">Назва</string>
+    <string name="product_description">Опис</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
